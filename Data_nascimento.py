@@ -7,6 +7,8 @@ datanasc = int(input("Qual seu ano de Nascimento? "))
 idade = 2020 - datanasc
 dias = idade * 365
 "saida"
-print("a idade de", nome, "é", idade ,"com isso ele viveu", dias ,"dias")
+print("A idade de", nome, "é", idade ,"com isso ele viveu", dias ,"dias")
+
+exit("sair?")
 
 "ass: F3NECK"
