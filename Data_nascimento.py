@@ -8,3 +8,5 @@ idade = 2020 - datanasc
 dias = idade * 365
 "saida"
 print("a idade de", nome, "é", idade ,"com isso ele viveu", dias ,"dias")
+
+"ass: F3NECK"
