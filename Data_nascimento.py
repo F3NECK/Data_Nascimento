@@ -1,8 +1,8 @@
 "calculo da data de nascimento do individuo"
 
 "entrada"
-nome = input("ensira seu nome de usuario: ")
-senha = input("para sua segurança ensira sua senha: ")
+print("bem vindo a falsa inteligencia artificial")
+nome = input("para continuarmos ensira seu nome: ")
 datanasc = int(input("Qual seu ano de Nascimento? "))
 idade = 2020 - datanasc
 dias = idade * 365
