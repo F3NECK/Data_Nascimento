@@ -11,7 +11,7 @@
 #entrada
 
 name= input('qual é o seu nome: ')                      #<- com a varivavel eu posso guardar uma informação pra poder puxar ela em alguma ocasiao necessaria
-datanasc = int(input('ensira o nome que vc nasceu: '))  #<- input tipo inteiro para que possa fazer a subtração na hora do processamento
+datanasc = int(input('ensira o ano que vc nasceu: '))  #<- input tipo inteiro para que possa fazer a subtração na hora do processamento
 ano = int(input('ano que estamos: '))                   #o mesmo ocorre aqui.
 
 #processamento
