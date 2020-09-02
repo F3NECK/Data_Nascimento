@@ -1,3 +1,10 @@
+#################################################################
+#                     datanasc_projeto atualizado               #
+#                data da ultima modificação: 02/09/20           #
+#                         ass: Felipe Magno                     #
+#################################################################
+
+
 #esse arquivo foi inspirado na aula de analise e programação do prof Neo
 #porem contendo umas alteraçôes pra deixar o projeto mais dinamico para interação
 
