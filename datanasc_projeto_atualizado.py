@@ -30,3 +30,5 @@ minuto = hora * 60     #<- minutos vividos
 print('a idade de %s' %name,"é %s" %idade, "e seus dias vividos são %s" %dia)  #<-- com o comando print eu ordeno para a maquinar "imprimir"
                                                                                # os dados concatenados
 
+#ASS: F3NECK
+"FELIPE MAGNO"
