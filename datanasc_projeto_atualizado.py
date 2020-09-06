@@ -27,8 +27,8 @@ minuto = hora * 60     #<- minutos vividos
 
 #aqui a maquina mostrará na tela os resultados do procesamentos por meio de uma impressao da concatenação feita no programa
 
-print('a idade de %s' %name,"é %s" %idade, "e seus dias vividos são %s" %dia)  #<-- com o comando print eu ordeno para a maquinar "imprimir"
-                                                                               # os dados concatenados
+print('a idade de %s' %name,"é %s" %idade, "e seus dias vividos são %s" %dia) #<-- com o comando print eu ordeno para a maquinar "imprimir" os dados concatenados
+print('suas horas contadas deste seu nascimento é %s' %hora, 'e seu minutos sao %s' %minuto)
 
 #ASS: F3NECK
-"FELIPE MAGNO"
+#"FELIPE MAGNO"
